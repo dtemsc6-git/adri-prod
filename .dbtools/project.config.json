@@ -5,7 +5,7 @@
     "autoConnect" : false,
     "version" : "26.3.1.0"
   },
-  "schemas" : [ "WKSP_DTESC_PROD" ],
+  "schemas" : [ "WKSP_DTESCPROD" ],
   "lastReleaseVersion" : "",
   "apex" : {
     "apexlang" : true

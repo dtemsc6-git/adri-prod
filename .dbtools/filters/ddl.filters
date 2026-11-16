@@ -76,7 +76,7 @@ export_type not in ('USER_SYS_PRIVS','USER_ROLE_PRIVS','USER','ALL_USERS','DBA_R
 -- export_type = 'APEX_APPLICATIONS',
 
 -- Export applications 200 and 300:
- application_id in (111, 300),
+ application_id in (111),
 
 -- More APEX filters:
 -- is_working_copy = 'Yes', -- Yes/No
